@@ -4,4 +4,6 @@ h{
 p{
     color: brown;
     background-color: darkcyan;
+    border: 10 px solid black;
+    border-radius: 20px;
 }
